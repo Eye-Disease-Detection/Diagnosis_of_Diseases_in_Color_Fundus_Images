@@ -1,1 +1,1 @@
-# Diagnosis_of_Diseases_in_Color_Fundus_Images
+# Diagnosis of Diseases in Color Fundus Images Using Deep Learning Algorithms
